@@ -3,6 +3,8 @@
 ### WHOWANT
 후원자가 피후원자에 대한 게시글을 통해 `피후원자의 상황을 직접 확인`하고, <br>
 `직접 후원`을 할 수 있는 서비스
+<br><br>
+![mainpage](result/mainpage.png)
 
 ## Idea
 #### :memo: 주 타깃층: 후원자
